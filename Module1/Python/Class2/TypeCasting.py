@@ -27,6 +27,12 @@ salary = 2500
 print(salary);
 print("Salary To BOOL " ,type(salary));
 salary = bool(salary);
-print("Salary To BOOL " ,type(salary));
+print("Salary To BOOL " ,type(salary));   
 
 
+
+attendance = 120;
+
+print(type(attendance))
+attendance = str(attendance);
+print(type(attendance));
