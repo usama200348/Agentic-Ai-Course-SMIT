@@ -59,4 +59,5 @@ print(courses[::3])
 # print(courses[0:3,7:9]) Error
 
 print(courses[:3],courses[7:]);
-print(courses[:3]+courses[7:],end='');
+print(courses[:3]+courses[7:],end='This Is The End');
+# Ending State Print khatam hoo aus ka bad bhe kuch likhna ya lagana hoo 
