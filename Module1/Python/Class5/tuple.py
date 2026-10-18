@@ -17,3 +17,11 @@ mytuple = list(mytuple)
 print(type(mytuple))
 mytuple.append('abx')
 print(mytuple)
+
+
+# ('apple','mango' , 'orange' , 'kiwi' , 'grapes' , 'melon') = tuple2
+
+(a,*b,c) =mytuple
+print(a)
+print(b)
+print(c)
