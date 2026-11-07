@@ -41,3 +41,13 @@ for i in string:
         print('Sohail')
         continue
     print(i)
+
+
+fruits = ['apples','guava','banana','grapes','kiwi']
+for i in lst :
+    print(i)
+    if i == 'f':
+        for k in fruits:
+            if k == 'grapes':
+                continue
+        print(k)
