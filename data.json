@@ -1,0 +1,12 @@
+{
+    "name": "Usama",
+    "gender": "male",
+    "dob": "08-Aug-2003",
+    "age": "23",
+    "mobile": "031417147714",
+    "address": {
+        "city": "Karachi",
+        "province": "Sindh",
+        "area": "Saadi Town"
+    }
+}
